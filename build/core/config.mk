@@ -1,0 +1,1 @@
+-include vendor/umidigi/firmware/$(TARGET_PRODUCT)/config.mk
